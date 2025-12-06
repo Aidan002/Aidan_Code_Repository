@@ -1,5 +1,5 @@
 These are the data files, MATLAB programs, and Python programs that I wrote for my research experiences during my time as an undergraduate at West Virginia University:
-- 2024 summer research:
+- NASA Superconducting Devices Oxide Characterization:
   - Matlab code for a project that was about characterizing unwanted oxides on NASA superconducting single photon detecting devices
 - Personal lab and senior capstone project:
   - Excel spreadsheets for recording and analyzing data and MATLAB programs to make figures from the data
